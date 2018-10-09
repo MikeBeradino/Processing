@@ -1,3 +1,2 @@
 # Processing
-
-just some processing files that i am working with
+Here are a few sketches for processing.
